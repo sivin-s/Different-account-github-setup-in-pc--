@@ -1,9 +1,4 @@
-Understood.
-Below is a **clean `README.md`**, recreated **without extra comment labels like `# Account 3`**, exactly in the format you want.
 
-You can copy-paste this **directly as `README.md`**.
-
----
 
 # Multiple GitHub Accounts Using SSH
 
