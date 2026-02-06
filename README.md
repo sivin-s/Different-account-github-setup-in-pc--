@@ -136,6 +136,8 @@ git clone git@github-account2:company/project.git
 If a repository was cloned with the wrong account:
 
 ```bash
+ git remote add origin git@github-account1:username/repo.git
+or
 git remote set-url origin git@github-account1:username/repo.git
 git push
 ```
